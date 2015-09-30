@@ -13,7 +13,6 @@ Group:      System/Hardware Support
 License:    GPLv2+
 URL:        http://cgit.freedesktop.org/evtest/
 Source:     %{name}-%{version}.tar.bz2
-Source100:  evtest.yaml
 BuildRequires:  automake libxml2-devel automake
 # asciidoc xmlto 
 
