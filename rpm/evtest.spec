@@ -56,11 +56,7 @@ cd evtest
 %defattr(-,root,root,-)
 # >> files
 %{_bindir}/%{name}
-%{_bindir}/evtest-capture
 %doc COPYING
-#%{_mandir}/man1/evtest.1*
-#%{_mandir}/man1/evtest-capture.1*
-%{_datadir}/%{name}/evtest-create-device.xsl
 # << files
 
 
